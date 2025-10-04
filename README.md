@@ -1,4 +1,4 @@
-# Conversor-de-Unidades
+# Conversor-Java
 Conversor de Unidades desenvolvido em Java, que permite converter entre diferentes unidades de temperatura e distância. O programa também mantém um histórico das conversões realizadas, permitindo que o usuário visualize todas as operações feitas durante a execução
 
 ## Funcionalidades
@@ -32,4 +32,4 @@ O usuário interage com o programa através de um **menu interativo** no console
 1. Clone ou faça o download do projeto:
 
 ```bash
-git clone https://github.com/Vt-dnts/conversor-java.git
+git clone https://github.com/Vt-dnts/Conversor-Java.git

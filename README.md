@@ -25,7 +25,15 @@ O usuário interage com o programa através de um **menu interativo** no console
   - Métodos
   - Coleções (`ArrayList`)
 
----
+## Melhorias futuras
+
+- Adicionar tratamento de entradas inválidas (letras ou símbolos).
+
+- Salvar o histórico em arquivo .txt para consultar depois de fechar o programa.
+
+- Implementar POO completa separando as conversões em classes diferentes.
+
+- Adicionar mais tipos de conversões (peso, volume, velocidade etc.).
 
 ## Como usar
 

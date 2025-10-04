@@ -32,4 +32,4 @@ O usuário interage com o programa através de um **menu interativo** no console
 1. Clone ou faça o download do projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/conversor-java.git
+git clone https://github.com/Vt-dnts/conversor-java.git
